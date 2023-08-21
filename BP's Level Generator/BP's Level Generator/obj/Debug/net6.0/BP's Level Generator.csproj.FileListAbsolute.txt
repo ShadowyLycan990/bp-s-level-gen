@@ -1,0 +1,15 @@
+H:\BP's Level Generator\BP's Level Generator\bin\Debug\net6.0\BP's Level Generator.exe
+H:\BP's Level Generator\BP's Level Generator\bin\Debug\net6.0\BP's Level Generator.deps.json
+H:\BP's Level Generator\BP's Level Generator\bin\Debug\net6.0\BP's Level Generator.runtimeconfig.json
+H:\BP's Level Generator\BP's Level Generator\bin\Debug\net6.0\BP's Level Generator.dll
+H:\BP's Level Generator\BP's Level Generator\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.csproj.AssemblyReference.cache
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.GeneratedMSBuildEditorConfig.editorconfig
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.AssemblyInfoInputs.cache
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.AssemblyInfo.cs
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.csproj.CoreCompileInputs.cache
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.csproj.CopyComplete
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.dll
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\refint\BP's Level Generator.dll
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\BP's Level Generator.genruntimeconfig.cache
+H:\BP's Level Generator\BP's Level Generator\obj\Debug\net6.0\ref\BP's Level Generator.dll

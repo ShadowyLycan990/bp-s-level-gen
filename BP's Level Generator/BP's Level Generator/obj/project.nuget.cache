@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvYZwA6P/VkGk+S0H/S6md2f3iRq11rlImY3uggfvgicXG5QeVoCIYMbpgQyo9rf6T0xTEi+JIz4a0+3EpdI7g==",
+  "success": true,
+  "projectFilePath": "H:\\BP's Level Generator\\BP's Level Generator\\BP's Level Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\BP\\.nuget\\packages\\newtonsoft.json.schema\\3.0.15\\newtonsoft.json.schema.3.0.15.nupkg.sha512",
+    "C:\\Users\\BP\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
